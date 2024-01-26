@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 7310525d722c77442bab113c00176a6a
+  - enabled: 1
+    path: Assets/Scenes/TUTORIALUI.unity
+    guid: 75915b92e467c314e89033777db7dc12
+  - enabled: 1
+    path: Assets/Scenes/Tuturial.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/QUIZ_TUTORIAL.unity
+    guid: 97e917ca3fe36414291c84a4fb5ba931
+  - enabled: 1
+    path: Assets/Scenes/Amazonia.unity
+    guid: a2d5906549edb5b4181898bf4186d62a
+  - enabled: 1
+    path: Assets/Scenes/QUIZ_AMAZONIA.unity
+    guid: fb2571c539d61f142951905fa4981cb8
+  - enabled: 1
+    path: Assets/Scenes/Caatinga.unity
+    guid: 882e15a083285934abf4f3374f51b350
+  - enabled: 1
+    path: Assets/Scenes/QUIZ_CAATINGA.unity
+    guid: 9dbd2096eb1b0db4696fedc71e30da1e
+  m_configObjects: {}
