@@ -1,0 +1,1740 @@
+fileFormatVersion: 2
+guid: c9a9ab0d96a00d34fb1cb5ab51840969
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8786290956300179184
+    second: Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_0
+  - first:
+      213: -8824651997565134624
+    second: Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_1
+  - first:
+      213: -4314038571977976835
+    second: Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_2
+  - first:
+      213: -9088259300049367784
+    second: Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_3
+  - first:
+      213: -3570313103130320851
+    second: Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_4
+  - first:
+      213: 1418465530551483677
+    second: Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_5
+  - first:
+      213: 7740780927192578594
+    second: Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_6
+  - first:
+      213: 8775891391659144275
+    second: Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_7
+  - first:
+      213: -2757738418436083989
+    second: Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_8
+  - first:
+      213: -1516943600965860563
+    second: Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_9
+  - first:
+      213: -1205408225620680333
+    second: Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_10
+  - first:
+      213: -2246320285599962123
+    second: Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_11
+  - first:
+      213: 2905805181974988000
+    second: Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_12
+  - first:
+      213: -5111543412118153393
+    second: Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_13
+  - first:
+      213: -837146525425922395
+    second: Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_14
+  - first:
+      213: -2844673048920012496
+    second: Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_15
+  - first:
+      213: -3515990436283005398
+    second: Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_16
+  - first:
+      213: -3677064566361479791
+    second: Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_17
+  - first:
+      213: 4130612706492262341
+    second: Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_18
+  - first:
+      213: 3221653224037068111
+    second: Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_19
+  - first:
+      213: 6475732824687074853
+    second: Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_20
+  - first:
+      213: 6929038875614315022
+    second: Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_21
+  - first:
+      213: -8990379704488945427
+    second: Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_22
+  - first:
+      213: 2102434357579026721
+    second: Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_23
+  - first:
+      213: -5238938037561044418
+    second: Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_24
+  - first:
+      213: 5848080178204593674
+    second: Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_25
+  - first:
+      213: -3402392218446080203
+    second: Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_26
+  - first:
+      213: 3371467366774134826
+    second: Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_27
+  - first:
+      213: -1497848799953835748
+    second: Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_28
+  - first:
+      213: -5318831436106235187
+    second: Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_29
+  - first:
+      213: 8299288944224463803
+    second: Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_30
+  - first:
+      213: 4566091138173382203
+    second: Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_31
+  - first:
+      213: -4237846781815420714
+    second: Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_32
+  - first:
+      213: -3346243189512184701
+    second: Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_33
+  - first:
+      213: -1867993417078791780
+    second: Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_34
+  - first:
+      213: 9080738704852353670
+    second: Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_35
+  - first:
+      213: -2222603880782638045
+    second: Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_36
+  - first:
+      213: -3743995958681236045
+    second: Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_37
+  - first:
+      213: 2267134811591821344
+    second: Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_38
+  - first:
+      213: 2521236563997673582
+    second: Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_39
+  - first:
+      213: -7310245542451990432
+    second: Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_40
+  - first:
+      213: -7847932621088264930
+    second: Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_41
+  - first:
+      213: 1244720424754849282
+    second: Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_42
+  - first:
+      213: -1630331168081148766
+    second: Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_43
+  - first:
+      213: 2159475197285907231
+    second: Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_44
+  - first:
+      213: -891356865047764600
+    second: Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_45
+  - first:
+      213: 8565366793831022150
+    second: Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_46
+  - first:
+      213: 1945687659378417693
+    second: Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_47
+  - first:
+      213: -6595117817008486838
+    second: Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_48
+  - first:
+      213: 7662506990147613603
+    second: Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_49
+  - first:
+      213: 5258109344813045135
+    second: Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_50
+  - first:
+      213: 8829979724747392289
+    second: Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_51
+  - first:
+      213: -1329524159971443492
+    second: Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_52
+  - first:
+      213: -443991631563776005
+    second: Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_53
+  - first:
+      213: -5132628612994862009
+    second: Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_54
+  - first:
+      213: -1184947030072421276
+    second: Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_55
+  - first:
+      213: 7469258707863288909
+    second: Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_56
+  - first:
+      213: 2010898503862258470
+    second: Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_57
+  - first:
+      213: 5329550633120993167
+    second: Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_58
+  - first:
+      213: 4272523557430911027
+    second: Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_59
+  - first:
+      213: 765234441622222023
+    second: Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_60
+  - first:
+      213: 5520659812464971089
+    second: Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_61
+  - first:
+      213: 8677806821757394385
+    second: Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_62
+  - first:
+      213: -6989605803573913049
+    second: Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_63
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 468
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01920805de2d01680800000000000000
+      internalID: -8786290956300179184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_1
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 466
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e850b263c9888580800000000000000
+      internalID: -8824651997565134624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_2
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 467
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df35be986c47124c0800000000000000
+      internalID: -4314038571977976835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_3
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 466
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81dcae9715400e180800000000000000
+      internalID: -9088259300049367784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_4
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 468
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d20aef62623b37ec0800000000000000
+      internalID: -3570313103130320851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_5
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 468
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d38aa72e66fa310800000000000000
+      internalID: 1418465530551483677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_6
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 466
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22abe69ad37cc6b60800000000000000
+      internalID: 7740780927192578594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_7
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 470
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 354704b59ba3ac970800000000000000
+      internalID: 8775891391659144275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_8
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 404
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee6ba1058b8ab9d0800000000000000
+      internalID: -2757738418436083989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_9
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 403
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d23c02005dbb2fae0800000000000000
+      internalID: -1516943600965860563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_10
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 404
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 371ab86fa97854fe0800000000000000
+      internalID: -1205408225620680333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_11
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 404
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb6f0d0a9773d0e0800000000000000
+      internalID: -2246320285599962123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_12
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 403
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e4cb1ada6e735820800000000000000
+      internalID: 2905805181974988000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_13
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 404
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4795ba49562019b0800000000000000
+      internalID: -5111543412118153393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_14
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 399
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae0907ababd164f0800000000000000
+      internalID: -837146525425922395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_15
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 404
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 039cef80fe0b588d0800000000000000
+      internalID: -2844673048920012496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_16
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 340
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a264ea3a351b43fc0800000000000000
+      internalID: -3515990436283005398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_17
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 340
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19529d1424178fcc0800000000000000
+      internalID: -3677064566361479791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_18
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 340
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c7af232f52e25930800000000000000
+      internalID: 4130612706492262341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_19
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 340
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4da838c98c95bc20800000000000000
+      internalID: 3221653224037068111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_20
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 340
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52e5fc3b1bc6ed950800000000000000
+      internalID: 6475732824687074853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_21
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 340
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e020ddf4524e82060800000000000000
+      internalID: 6929038875614315022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_22
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 335
+        width: 17
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de81e06ba41cb3380800000000000000
+      internalID: -8990379704488945427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_23
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 341
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1211317b8e85d2d10800000000000000
+      internalID: 2102434357579026721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_24
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 276
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3254e6ac9d8b47b0800000000000000
+      internalID: -5238938037561044418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_25
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 276
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0e43e700fd882150800000000000000
+      internalID: 5848080178204593674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_26
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 276
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 537d7f0dd4648c0d0800000000000000
+      internalID: -3402392218446080203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_27
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 276
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a28d46015bbd9ce20800000000000000
+      internalID: 3371467366774134826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_28
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 276
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c19a18fc372963be0800000000000000
+      internalID: -1497848799953835748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_29
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 276
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc205be3df6bf26b0800000000000000
+      internalID: -5318831436106235187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_30
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 271
+        width: 17
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb63d0c25ffc2370800000000000000
+      internalID: 8299288944224463803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_31
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 277
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3e22eea2b30e5f30800000000000000
+      internalID: 4566091138173382203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_32
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 211
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d80c551ec42035c0800000000000000
+      internalID: -4237846781815420714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_33
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 211
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c5e0d5c81cf81d0800000000000000
+      internalID: -3346243189512184701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_34
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 211
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c91204c52ed8316e0800000000000000
+      internalID: -1867993417078791780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_35
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 211
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6828dd08db3450e70800000000000000
+      internalID: 9080738704852353670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_36
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 211
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 324db89db89b721e0800000000000000
+      internalID: -2222603880782638045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_37
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 211
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd8e4a1387aa0cc0800000000000000
+      internalID: -3743995958681236045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_38
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 212
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0284ade691b767f10800000000000000
+      internalID: 2267134811591821344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_39
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 212
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e68cecffb4b3df220800000000000000
+      internalID: 2521236563997673582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_40
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 147
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0603445196acc8a90800000000000000
+      internalID: -7310245542451990432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_41
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 148
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1d65da7cda861390800000000000000
+      internalID: -7847932621088264930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_42
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 148
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 206af2aa1a2264110800000000000000
+      internalID: 1244720424754849282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_43
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 147
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a48644c076ef59e0800000000000000
+      internalID: -1630331168081148766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_44
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 148
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1b3e73204ff7fd10800000000000000
+      internalID: 2159475197285907231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_45
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 148
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 881e8b267a341a3f0800000000000000
+      internalID: -891356865047764600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_46
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 148
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e793db7bb4ed670800000000000000
+      internalID: 8565366793831022150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_47
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 148
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d10ac151e98700b10800000000000000
+      internalID: 1945687659378417693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_48
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 84
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a460c51b94f6974a0800000000000000
+      internalID: -6595117817008486838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_49
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 84
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a332b48281b65a60800000000000000
+      internalID: 7662506990147613603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_50
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 84
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f855eb7279e88f840800000000000000
+      internalID: 5258109344813045135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_51
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 84
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1254873c6c36a8a70800000000000000
+      internalID: 8829979724747392289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_52
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 84
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdc3a9412d49c8de0800000000000000
+      internalID: -1329524159971443492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_53
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 84
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff1565a6ff96d9f0800000000000000
+      internalID: -443991631563776005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_54
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 84
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7447f66687d35c8b0800000000000000
+      internalID: -5132628612994862009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_55
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 84
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46411ea44f83e8fe0800000000000000
+      internalID: -1184947030072421276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_56
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 20
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c3fa1983328a760800000000000000
+      internalID: 7469258707863288909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_57
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 20
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b031af88528eb10800000000000000
+      internalID: 2010898503862258470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_58
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 20
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8f82ab401e56f940800000000000000
+      internalID: 5329550633120993167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_59
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 20
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3306827e98d0b4b30800000000000000
+      internalID: 4272523557430911027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_60
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 20
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c479c69ba8ae9a00800000000000000
+      internalID: 765234441622222023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_61
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 20
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15dcfb789d25d9c40800000000000000
+      internalID: 5520659812464971089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_62
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 20
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd9f40d353cd6870800000000000000
+      internalID: 8677806821757394385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_63
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 20
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72ad7fddd8eeffe90800000000000000
+      internalID: -6989605803573913049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_0: -8786290956300179184
+      Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_1: -8824651997565134624
+      Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_10: -1205408225620680333
+      Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_11: -2246320285599962123
+      Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_12: 2905805181974988000
+      Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_13: -5111543412118153393
+      Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_14: -837146525425922395
+      Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_15: -2844673048920012496
+      Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_16: -3515990436283005398
+      Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_17: -3677064566361479791
+      Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_18: 4130612706492262341
+      Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_19: 3221653224037068111
+      Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_2: -4314038571977976835
+      Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_20: 6475732824687074853
+      Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_21: 6929038875614315022
+      Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_22: -8990379704488945427
+      Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_23: 2102434357579026721
+      Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_24: -5238938037561044418
+      Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_25: 5848080178204593674
+      Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_26: -3402392218446080203
+      Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_27: 3371467366774134826
+      Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_28: -1497848799953835748
+      Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_29: -5318831436106235187
+      Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_3: -9088259300049367784
+      Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_30: 8299288944224463803
+      Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_31: 4566091138173382203
+      Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_32: -4237846781815420714
+      Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_33: -3346243189512184701
+      Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_34: -1867993417078791780
+      Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_35: 9080738704852353670
+      Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_36: -2222603880782638045
+      Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_37: -3743995958681236045
+      Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_38: 2267134811591821344
+      Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_39: 2521236563997673582
+      Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_4: -3570313103130320851
+      Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_40: -7310245542451990432
+      Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_41: -7847932621088264930
+      Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_42: 1244720424754849282
+      Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_43: -1630331168081148766
+      Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_44: 2159475197285907231
+      Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_45: -891356865047764600
+      Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_46: 8565366793831022150
+      Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_47: 1945687659378417693
+      Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_48: -6595117817008486838
+      Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_49: 7662506990147613603
+      Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_5: 1418465530551483677
+      Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_50: 5258109344813045135
+      Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_51: 8829979724747392289
+      Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_52: -1329524159971443492
+      Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_53: -443991631563776005
+      Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_54: -5132628612994862009
+      Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_55: -1184947030072421276
+      Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_56: 7469258707863288909
+      Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_57: 2010898503862258470
+      Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_58: 5329550633120993167
+      Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_59: 4272523557430911027
+      Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_6: 7740780927192578594
+      Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_60: 765234441622222023
+      Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_61: 5520659812464971089
+      Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_62: 8677806821757394385
+      Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_63: -6989605803573913049
+      Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_7: 8775891391659144275
+      Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_8: -2757738418436083989
+      Roupa_Bandido_Caatinga_Mascarado_2_Cabelo_a_3_9: -1516943600965860563
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

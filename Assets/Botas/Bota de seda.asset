@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b7750dc8869492e4aa8552dec862e09f, type: 3}
+  m_Name: Bota de seda
+  m_EditorClassIdentifier: 
+  name: Botas de Seda
+  description: Mais veloz, Menos resistente
+  speed: 4
+  jump: 1
+  resistence: 0
+  artWork: {fileID: 21300000, guid: 09a87899b507957449ce1caa2acfb7ff, type: 3}
